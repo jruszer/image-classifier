@@ -6,14 +6,14 @@ The model is built with TensorFlow/Keras and evaluated using multiple classifica
 
 # Project Overview
 
-The main goals of this project are:
+* The main goals of this project are:
 
-Build a binary image classifier (Dog vs Cat)
+* Build a binary image classifier (Dog vs Cat)
 
-Apply transfer learning
+* Apply transfer learning
 
-Analyze the impact of different test set sizes
+* Analyze the impact of different test set sizes
 
-Evaluate the model using multiple performance metrics
+* Evaluate the model using multiple performance metrics
 
-The model is based on MobileNetV2, pretrained on ImageNet.
+* The model is based on MobileNetV2, pretrained on ImageNet.
