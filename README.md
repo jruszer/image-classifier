@@ -6,7 +6,7 @@ The model is built with TensorFlow/Keras and evaluated using multiple classifica
 
 # Project Overview
 
-* The main goals of this project are:
+The main goals of this project are:
 
 * Build a binary image classifier (Dog vs Cat)
 
